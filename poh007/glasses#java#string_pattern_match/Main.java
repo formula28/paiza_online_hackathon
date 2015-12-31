@@ -1,5 +1,6 @@
 /**
 POH vol.7 「めがね」ゲットチャレンジ.
+2次元配列パターンマッチ.
 文字列のパターンマッチを利用した解法.
 */
 import java.io.BufferedReader;
